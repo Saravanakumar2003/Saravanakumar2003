@@ -52,7 +52,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/saravanakumar-ramaswamy-0aa1041b8/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/saravanaramaswamy03?utm_source=qr"><img src="https://icons8.com/icon/Xy10Jcu1L2Su/instagram"/></a>
+<a href = "https://www.instagram.com/saravanaramaswamy03?utm_source=qr"><img src="https://www.flaticon.com/free-icon/instagram_1409946?term=instagram&page=1&position=12&origin=search&related_id=1409946"/></a>
 
 </p>
  
