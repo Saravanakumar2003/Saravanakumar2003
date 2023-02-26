@@ -1,4 +1,4 @@
-### <h1 align="center">Hi <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzI0ZjViMDA0ZmVjYzEwYTc3ZTk0OGRkMWNiMTk0YWZmYzYwMmFjYiZjdD1z/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">,  I'm Saravanakumar Ramaswamy
+### <h1 align="center">Hi <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzI0ZjViMDA0ZmVjYzEwYTc3ZTk0OGRkMWNiMTk0YWZmYzYwMmFjYiZjdD1z/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> ,  I'm Saravanakumar Ramaswamy
 
  ## 🙋‍♂️ About Me
 
@@ -9,25 +9,24 @@
 
 - 👯 I’m looking to collaborate on **Projects**
 
-- 📫 How to reach me **www.saravanakumar.me**
+- 📫 How to reach me **hello@saravanakumar.me**
 
  ##### <h3 align="center">I'm my Authentic-Self</h3>
  <br>
  <h2 align="center">My Skills</h2>
  <p align="center"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
-    <a href="https://developer.android.com/kotlin?gclid=CjwKCAjwieuGBhAsEiwA1Ly_nW2ZuKGIiJsDsmbeKVlBy5SyqUpNT9FL2kwL7HN3j2puwgnv9c-OABoCAaIQAvD_BwE&gclsrc=aw.ds" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" width="40" height="40"/> </a>  
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-  <a style="padding-right:8px;" href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40"/> </a>
-    <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="express" width="40" height="40"/> </a>
-  <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="40" height="40"/> </a>  
+    <a href=# target="_blank"> <img src="https://icons8.com/icon/VLKafOkk3sBX/azure"/> </a> 
+    <a href=# target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="40" height="40"/> </a>  
+    <a href=# target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href=# target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href=# target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a style="padding-right:8px;" href=# target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a style="padding-right:8px;" href=# target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+  <a style="padding-right:8px;" href=# target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40"/> </a>
+    <a href=# target="_blank"> <img src="https://icons8.com/icon/ezj3zaVtImPg/visual-studio" alt="express" width="40" height="40"/> </a>
+  <a href=# target="_blank"> <img src="https://icons8.com/icon/117557/microsoft-powerpoint-2019" alt="express" width="40" height="40"/> </a>
+    <a href=# target="_blank"> <img src="https://icons8.com/icon/108781/adobe-after-effects"/> </a> 
+    <a href=# target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
 
 
@@ -48,28 +47,20 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Saravanakumar2003/github-readme-activity-graph"><img alt="Saravanakumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Saravanakumar2003&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
- ![trophy](https://github-profile-trophy.vercel.app/?username=Saravanakumar2003&row=1&no-bg=true)
-
-<br/>
-<br/>
 
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/arun-singh-kushwaha-087652207/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.facebook.com/profile.php?id=100057356125529"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
-
+<a href = "https://www.linkedin.com/in/saravanakumar-ramaswamy-0aa1041b8/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/saravanaramaswamy03?utm_source=qr"><img src="https://icons8.com/icon/Xy10Jcu1L2Su/instagram"/></a>
 
 </p>
  
-## ❤ Views and Followers
+## ❤ Views and Followers. Feel free fork and star my Repos ❤
 <a href="https://github.com/Saravanakumar2003?tab=followers"><img src="https://img.shields.io/github/followers/Saravanakumar2003?label=Followers&style=social" alt="GitHub Badge"></a>   ![Profile views](https://gpvc.arturio.dev/Saravanakumar2003)  
 
  
  
  
-  ## ✨ To see my React projects, click <a href="https://github.com/arun-kushwaha04/React-Project.git">here</a> ✨</p>
+  ## ✨ Learn more about me, click <a href="www.saravanakumar.me">here</a> ✨</p>
   
-<!--  ![Profile views](https://gpvc.arturio.dev/arun-kushwaha04)   -->
