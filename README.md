@@ -1,9 +1,9 @@
-### <h1 align="center">Hi, I'm Saravanakumar Ramaswamy<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### <h1 align="center">Hi <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzI0ZjViMDA0ZmVjYzEwYTc3ZTk0OGRkMWNiMTk0YWZmYzYwMmFjYiZjdD1z/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">,  I'm Saravanakumar Ramaswamy
 
  ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Ktor**
+- 🌱 I’m currently learning **BE in Electronics and Communication**
  
 - 🔥 I'm also improving my **skills** and **knowlege**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **www.saravanakumar.me**
 
- ##### <h3 align="center"> Developer || Speaker || Volunteer  </h3>
+ ##### <h3 align="center">I'm my Authentic-Self</h3>
  <br>
  <h2 align="center">My Skills</h2>
  <p align="center"> 
@@ -38,37 +38,20 @@
 </p>
  
 <div align="center">
- 
 # 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Saravanakumar2003/github-readme-stats"><img alt="Arun Kushwaha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Saravanakumar2003show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Saravanakumar2003/github-readme-stats"><img alt="Arun Kushwaha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saravanakumar2003&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Saravanakumar2003/github-readme-stats"><img alt="Saravanakumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Saravanakumar2003&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Saravanakumar2003/github-readme-stats"><img alt="Saravanakumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saravanakumar2003&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
 <br/>
 <br/>
 
-<a href="https://github.com/Saravanakumar2003/github-readme-activity-graph"><img alt="Arun Kushwaha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Saravanakumar2003&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Saravanakumar2003/github-readme-activity-graph"><img alt="Saravanakumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Saravanakumar2003&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
  ![trophy](https://github-profile-trophy.vercel.app/?username=Saravanakumar2003&row=1&no-bg=true)
 
- ### 👨‍💻 Where I spent time on this week
- <!--START_SECTION:waka-->
-
-```text
-JSON         1 hr 24 mins    █████████▓░░░░░░░░░░░░░░░   38.51 %
-XML          53 mins         ██████░░░░░░░░░░░░░░░░░░░   24.56 %
-Java         28 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.21 %
-Groovy       19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
-Bash         12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
-Markdown     9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
-```
-
-<!--END_SECTION:waka-->
- 
 <br/>
 <br/>
 
