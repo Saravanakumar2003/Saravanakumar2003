@@ -15,7 +15,6 @@
  <br>
  <h2 align="center">My Skills</h2>
  <p align="center"> 
-    <a href=# target="_blank"> <img src="https://icons8.com/icon/VLKafOkk3sBX/azure"/> </a> 
     <a href=# target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="40" height="40"/> </a>  
     <a href=# target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href=# target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -23,9 +22,9 @@
     <a style="padding-right:8px;" href=# target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href=# target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
   <a style="padding-right:8px;" href=# target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40"/> </a>
-    <a href=# target="_blank"> <img src="https://icons8.com/icon/ezj3zaVtImPg/visual-studio" alt="express" width="40" height="40"/> </a>
-  <a href=# target="_blank"> <img src="https://icons8.com/icon/117557/microsoft-powerpoint-2019" alt="express" width="40" height="40"/> </a>
-    <a href=# target="_blank"> <img src="https://icons8.com/icon/108781/adobe-after-effects"/> </a> 
+    <a href=# target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/visual-studio-code-1868941-1583105.png?f=avif&w=256" alt="express" width="40" height="40"/> </a>
+  <a href=# target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/microsoft-powerpoint-1868950-1583114.png?f=avif&w=256" alt="express" width="40" height="40"/> </a>
+    <a href=# target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/after-effects-1869033-1583157.png?f=avif&w=256"/> </a> 
     <a href=# target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
 
@@ -56,8 +55,8 @@
 
 </p>
  
-## ❤ Views and Followers. Feel free fork and star my Repos ❤
-<a href="https://github.com/Saravanakumar2003?tab=followers"><img src="https://img.shields.io/github/followers/Saravanakumar2003?label=Followers&style=social" alt="GitHub Badge"></a>   ![Profile views](https://gpvc.arturio.dev/Saravanakumar2003)  
+## ❤ Views and Followers. Feel free to fork and star my Repos ❤
+<a href="https://github.com/Saravanakumar2003?tab=followers"><img src="https://cdn.iconscout.com/icon/free/png-512/instagram-1868978-1583142.png?f=avif&w=256" alt="GitHub Badge"></a>   ![Profile views](https://gpvc.arturio.dev/Saravanakumar2003)  
 
  
  
