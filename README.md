@@ -31,7 +31,7 @@
 
  <p align="center">
     <a href="https://github.com/Saravanakumar2003/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Saravanakumar2003's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Saravanakumar2003&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title=# alt="Saravanakumar2003's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Saravanakumar2003&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
  
@@ -46,7 +46,7 @@
 <br/>
 <br/>
 
-  <h2 align="center">A Joke for you<img src="https://cdn.iconscout.com/icon/free/png-512/eye-face-joke-tongue-wink-emoji-stuckout-37676.png?f=avif&w=256" width="30px"></h2> !!
+  <h2 align="center">A Joke for you!!<img src="https://cdn.iconscout.com/icon/free/png-512/eye-face-joke-tongue-wink-emoji-stuckout-37676.png?f=avif&w=256" width="20px"></h2>
  <p align="center"> 
   <a href=# target="_blank"> <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> </a>
    <br><img src="https://media.giphy.com/media/l41lISBVXb9gRT32w/giphy.gif" width="300" alt="jokes GIF"></br>
