@@ -13,6 +13,11 @@
 
  ##### <h3 align="center">I'm my Authentic-Self</h3>
  <br>
+ <h2 align="center">A Joke for you!!<img src="https://cdn.iconscout.com/icon/free/png-512/eye-face-joke-tongue-wink-emoji-stuckout-37676.png?f=avif&w=256" width="30px"></h2>
+ <p align="center"> 
+  <a href=# target="_blank"> <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> </a>
+   <img src="https://media.giphy.com/media/l41lISBVXb9gRT32w/giphy.gif" width="300" alt="jokes GIF">
+   <p align="center"><i>Refresh to see a new one!!!</i></p>
  <h2 align="center">My Skills</h2>
  <p align="center"> 
     <a href=# target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="40" height="40"/> </a>  
