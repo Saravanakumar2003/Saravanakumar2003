@@ -60,7 +60,7 @@
 
 </p>
  
-## ❤ Views and Followers. Feel free to fork and star my Repos ❤
+## ❤ Viewers and Followers. Feel free to fork and star my Repos ❤
 <a href="https://github.com/Saravanakumar2003?tab=followers"><img src="https://img.shields.io/github/followers/Saravanakumar2003?label=Followers&style=social" alt="GitHub Badge"></a>   ![Profile views](https://gpvc.arturio.dev/Saravanakumar2003)  
 
  
