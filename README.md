@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Projects**
 
-- 📫 How to reach me **hello@saravanakumar.me**
+- 📫 How to reach me **saravanaramaswamy2003@gmail.com**
 
  ##### <h3 align="center">I'm my Authentic-Self</h3>
  <br>
