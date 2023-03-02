@@ -3,9 +3,9 @@
  ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **BE in Electronics and Communication**
+- 🌱 I’m currently learning **BE in Electronics and Communication Engineering**
  
-- 🔥 I'm also improving my **skills** and **knowlege**
+- 🔥 I'm also improving my **skills** and **knowledge** to match current technology
 
 - 👯 I’m looking to collaborate on **Projects**
 
