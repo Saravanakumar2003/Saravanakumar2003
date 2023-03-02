@@ -3,13 +3,13 @@
  ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **BE in Electronics and Communication Engineering**
+- 🌱 I’m currently learning **BE in Electronics and Communication Engineering**.
  
-- 🔥 I'm also improving my **skills** and **knowledge** to match current technology
+- 🔥 I'm also improving my **skills** and **knowledge** to match current Technology.
 
-- 👯 I’m looking to collaborate on **Projects**
+- 👯 I’m looking to collaborate on **Projects**.
 
-- 📫 How to reach me **saravanaramaswamy2003@gmail.com**
+- 📫 How to reach me **saravanaramaswamy2003@gmail.com**.
 
  ##### <h3 align="center">I'm my Authentic-Self</h3>
  <br>
