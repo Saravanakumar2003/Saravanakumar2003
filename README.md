@@ -10,11 +10,8 @@
 - 🎮 As a self-taught game developer, I've spent countless hours sharpening my skills and learning new techniques to bring my ideas to life. I founded S.A.R Games as a passion project, and I'm proud to say that it's grown into a thriving business with a loyal following.
 
 - 💪 So if you're looking for someone who's hardworking, authentic and always up for a good challenge, look no further than yours truly! Let's connect and see how we can make a difference together 🤝.
- 
- -Reach me on **saravanaramaswamy2003@gmail.com**
 
  
-
  ##### <h3 align="center">I'm my Authentic-Self</h3>
  <br>
  <h2 align="center">My Skills</h2>
@@ -66,9 +63,4 @@
  
 ## ❤ Viewers and Followers. Feel free to fork and star my Repos ❤
 <a href="https://github.com/Saravanakumar2003?tab=followers"><img src="https://img.shields.io/github/followers/Saravanakumar2003?label=Followers&style=social" alt="GitHub Badge"></a>   ![Profile views](https://gpvc.arturio.dev/Saravanakumar2003)  
-
- 
- 
- 
-  ## ✨ Learn more about me, click <a href="www.saravanakumar.me">here</a> ✨</p>
   
