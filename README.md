@@ -3,13 +3,17 @@
  ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **BE in Electronics and Communication Engineering**.
+- 🎓 A proud student of Velammal Engineering College, where I'm pursuing a Bachelor's degree in Electronics and Communication Engineering and building a solid foundation in technology. 
  
-- 🔥 I'm also improving my **skills** and **knowledge** to match current Technology.
+-  💻 I'm also an avid game developer, enthusiastic volunteer, and public speaker, and I love exploring new opportunities and avenues.
 
-- 👯 I’m looking to collaborate on **Projects**.
+- 🎮 As a self-taught game developer, I've spent countless hours sharpening my skills and learning new techniques to bring my ideas to life. I founded S.A.R Games as a passion project, and I'm proud to say that it's grown into a thriving business with a loyal following.
 
-- 📫 How to reach me **saravanaramaswamy2003@gmail.com**.
+- 💪 So if you're looking for someone who's hardworking, authentic and always up for a good challenge, look no further than yours truly! Let's connect and see how we can make a difference together 🤝.
+ 
+ -Reach me on **saravanaramaswamy2003@gmail.com**
+
+ 
 
  ##### <h3 align="center">I'm my Authentic-Self</h3>
  <br>
