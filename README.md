@@ -12,7 +12,7 @@
 - 💪 So if you're looking for someone who's hardworking, authentic and always up for a good challenge, look no further than yours truly! Let's connect and see how we can make a difference together 🤝.
 
  
- ##### <h3 align="center">I'm my Authentic-Self</h3>
+ ##### <h3 align="center">Reach me at **saravanaramaswamy2003@gmail.com**</h3>
  <br>
  <h2 align="center">My Skills</h2>
  <p align="center"> 
