@@ -56,8 +56,8 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/saravanakumar-ramaswamy-0aa1041b8/"><img src="https://icons8.com/icon/kFJzAZryEscq/linkedin-circled"/></a>
-<a href = "https://www.instagram.com/saravanaramaswamy03?utm_source=qr"><img src="https://icons8.com/icon/ZRiAFreol5mE/instagram"  width="40" height="40"/></a>
+<a href = "https://www.linkedin.com/in/saravanakumar-ramaswamy-0aa1041b8/"><img src="[https://icons8.com/icon/kFJzAZryEscq/linkedin-circled](https://icons8.com/icon/25n4hOEoY7ss/telegram-app)"/></a>
+<a href = "https://www.instagram.com/saravanaramaswamy03?utm_source=qr"><img src="![image](https://github.com/Saravanakumar2003/Saravanakumar2003/assets/100985347/ed38548f-bfc4-49da-8698-250052e2f468)"  width="40" height="40"/></a>
 
 </p>
  
