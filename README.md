@@ -60,7 +60,15 @@
 <a href = "https://www.instagram.com/saravanaramaswamy03?utm_source=qr"><img src="https://icons8.com/icon/ZRiAFreol5mE/instagram"/></a>
 
 </p>
- 
-## ❤ Viewers and Followers. Feel free to fork and star my Repos ❤
-<a href="https://github.com/Saravanakumar2003?tab=followers"><img src="https://img.shields.io/github/followers/Saravanakumar2003?label=Followers&style=social" alt="GitHub Badge"></a>   ![Profile views](https://gpvc.arturio.dev/Saravanakumar2003)  
+
+<div align="center">
+
+## Show some ❤️ by starring ⭐ some of the repositories!
+
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](https://saravanakumar.me/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=saravanaramaswamy2003@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/saravanakumar-ramaswamy-0aa1041b8//)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/saravanaramaswamy03?utm_source=qr)
+
+</div> 
   
