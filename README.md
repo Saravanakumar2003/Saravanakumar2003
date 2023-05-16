@@ -13,22 +13,49 @@
 
  
  ##### <h3 align="center">Reach me at **saravanaramaswamy2003@gmail.com**</h3>
- <br>
- <h2 align="center">My Skills</h2>
- <p align="center"> 
-    <a href=# target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="40" height="40"/> </a>  
-    <a href=# target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href=# target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href=# target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a style="padding-right:8px;" href=# target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href=# target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-  <a style="padding-right:8px;" href=# target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40"/> </a>
-    <a href=# target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/visual-studio-code-1868941-1583105.png?f=avif&w=256" alt="express" width="40" height="40"/> </a>
-  <a href=# target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/microsoft-powerpoint-1868950-1583114.png?f=avif&w=256" alt="express" width="40" height="40"/> </a>
-    <a href=# target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/after-effects-1869033-1583157.png?f=avif&w=256"  width="40" height="40"/> </a> 
-    <a href=# target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-</p>
+## 👨‍💻 Languages and Tools
 
+<div align="center">
+
+<img src="https://i.imgur.com/Riq5bIb.png" height="40" width="40">
+<img src="https://i.imgur.com/Uivesm4.png" height="40" width="40">
+<img src="https://i.imgur.com/KUlechH.png" height="40" width="40">
+<img src="https://i.imgur.com/lPav31e.png" height="45" width="65">
+<img src="https://i.imgur.com/uTwsATT.png" height="40" width="40">
+<img src="https://i.imgur.com/0zjDnXw.png" height="40" width="40">
+<img src="https://i.imgur.com/VBd4aS3.png" height="40" width="40">
+<img src="https://i.imgur.com/KSZRGKH.png" height="45" width="40">
+<img src="https://i.imgur.com/JcUsLfc.png" height="40" width="40">
+<img src="https://i.imgur.com/pWp0iDn.png" height="40" width="40"> 
+<img src="https://i.imgur.com/wa305S7.png" height="40" width="40">
+<img src="https://i.imgur.com/wsUmcb5.png" height="40" width="40">
+<img src="https://i.imgur.com/3NP07nj.png" height="40" width="40">
+<img src="https://i.imgur.com/mH7zbFv.png" height="40" width="35">
+<img src="https://i.imgur.com/9Ulh3vX.png" height="40" width="40">
+<img src="https://i.imgur.com/apxFVxR.png" height="40" width="40">
+<img src="https://i.imgur.com/t74wIVs.png" height="40" width="40">
+<img src="https://i.imgur.com/egRbxBy.png" height="40" width="40">
+
+<br />
+
+<img src="https://i.imgur.com/CfbGSw2.png" height="40" width="40">
+<img src="https://i.imgur.com/ydbeeyk.png" height="40" width="40">
+<img src="https://i.imgur.com/054LTZq.png" height="45" width="45">
+<img src="https://i.imgur.com/mQGR6nx.png" height="40" width="40">
+<img src="https://i.imgur.com/x6EieWc.png" height="40" width="40">
+<img src="https://i.imgur.com/K5LeVnW.png" height="40" width="60">
+<img src="https://i.imgur.com/ehWaPTK.png" height="40" width="40">
+<img src="https://i.imgur.com/4ryo0Qh.png" height="40" width="40">
+<img src="https://i.imgur.com/59p9PDP.png" height="40" width="40">
+<img src="https://i.imgur.com/DjzmcTo.png" height="40" width="40">
+<img src="https://i.imgur.com/VjulBsn.png" height="40" width="40">
+<img src="https://i.imgur.com/H3C168v.png" height="40" width="40">
+<img src="https://i.imgur.com/bbawh2F.png" height="40" width="40">
+<img src="https://i.imgur.com/0BKuO1I.png" height="40" width="40">
+<img src="https://i.imgur.com/b65wQ01.png" height="40" width="40">
+<img src="https://i.imgur.com/0EZWddS.png" height="40" width="40">
+<img src="https://i.imgur.com/yBHwdqa.png" height="40" width="40">
+</div>
 
  <p align="center">
     <a href="https://github.com/Saravanakumar2003/github-readme-streak-stats">
@@ -53,13 +80,6 @@
    <br><img src="https://media.giphy.com/media/l41lISBVXb9gRT32w/giphy.gif" width="300" alt="jokes GIF"></br>
    <p align="center"><i>Refresh to see a new one!!!</i></p>
 
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/saravanakumar-ramaswamy-0aa1041b8/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/saravanaramaswamy03?utm_source=qr"><img src="https://icons8.com/icon/ZRiAFreol5mE/instagram"/></a>
-
-</p>
 
 <div align="center">
 
