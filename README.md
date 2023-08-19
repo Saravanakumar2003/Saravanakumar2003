@@ -7,7 +7,7 @@
  
 -  💻 I'm also an avid game developer, enthusiastic volunteer, and public speaker, and I love exploring new opportunities and avenues.
 
-- 🎮 As a self-taught game developer, I've spent countless hours sharpening my skills and learning new techniques to bring my ideas to life. I founded S.A.R Games as a passion project, and I'm proud to say that it's grown into a thriving business with a loyal following.
+- 🎮 As a self-taught game developer, I've spent countless hours sharpening my skills and learning new techniques to bring my ideas to life. I founded GameCrafters as a passion project, and I'm proud to say that it's grown into a thriving business with a loyal following.
 
 - 💪 So if you're looking for someone who's hardworking, authentic and always up for a good challenge, look no further than yours truly! Let's connect and see how we can make a difference together 🤝.
 
