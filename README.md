@@ -31,23 +31,11 @@
 <br/>
 <br/>
 
-  <h2 align="center">A Joke for you!!<img src="https://cdn.iconscout.com/icon/free/png-512/eye-face-joke-tongue-wink-emoji-stuckout-37676.png?f=avif&w=256" width="20px"></h2>
+<h2 align="center">A Joke for you!!</h2>
  <p align="center"> 
   <a href=# target="_blank"> <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> </a>
    <p align="center"><i>Refresh to see a new one!!!</i></p>
-
-
 <div align="center">
-
-## Quotes
-
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=catppuccin)](https://github.com/piyushsuthar/github-readme-quotes)
-
-## My Certifications :arrow_down:
-
-- [Google IT Support Certification]([https://media-exp1.licdn.com/dms/image/C4D2DAQFmWJMLW78TaQ/profile-treasury-image-shrink_1280_1280/0?e=1594677600&v=beta&t=VF9vSpwjLb26doBzifmN6QIZFVSEJAMvOWAiGh3Fzzo](https://coursera.org/share/086d15f14b647562ed0573fb3881445a))
-- [Microsoft Azure : Azure Fundamentals]([https://media-exp1.licdn.com/dms/image/C4D2DAQHoFhvsfOPa5g/profile-treasury-image-shrink_1280_1280/0?e=1594677600&v=beta&t=EZa7le_vjNz5nGFIuOKmJk-WuGnPjOQpWz615lcUniM](https://www.credly.com/badges/399438ce-4210-4e08-af50-e9409d1343cf/public_url))
-- [Microsoft Azure : AI Azure Fundamentals]([https://media-exp1.licdn.com/dms/image/C4D2DAQGL_J8Rvg88cg/profile-treasury-image-shrink_480_480/0?e=1594677600&v=beta&t=ns1Pf3Eh9CDkLzcBDMz-LDWg9ArVMBOffdwSKhXzKzs](https://www.credly.com/badges/8e6fd35d-7614-462f-8f2a-af895223de59/linked_in_profile)) 
 
 
 ## Show some ❤️ by starring ⭐ some of the repositories!
