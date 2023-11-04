@@ -9,10 +9,56 @@
 
 - 🎮 As a self-taught game developer, I've spent countless hours sharpening my skills and learning new techniques to bring my ideas to life. I founded GameCrafters as a passion project, and I'm proud to say that it's grown into a thriving business with a loyal following.
 
-- 💪 So if you're looking for someone who's hardworking, authentic and always up for a good challenge, look no further than yours truly! Let's connect and see how we can make a difference together 🤝.
+- 💪 So if you're looking for someone hardworking, authentic and always up for a good challenge, look no further than yours truly! Let's connect and see how we can make a difference together 🤝.
 
  
  ##### <h3 align="center">Reach me at **saravanaramaswamy2003@gmail.com**</h3>
+
+<div id="connect">
+  <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github.com/Suvraneel/Suvraneel/assets/63473496/6c2a1b4f-2aeb-4ffd-8a31-47a41810dc55" height="35" width="auto">
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;Connect with me on:</span>
+  </h2>
+  <a href="https://twitter.com/Saravana2003_me">
+    <img src="https://user-images.githubusercontent.com/63473496/212667318-969259c1-f51a-47a4-a3e3-8675138bdcec.gif" height="60" width= auto>
+  </a>
+  <a href="https://www.linkedin.com/in/saravanaramaswamy2003">
+    <img src="https://user-images.githubusercontent.com/63473496/212667680-1ccf7d0a-9f59-4be5-a2d0-b07effb04b6c.gif" height="60" width= auto>
+  </a>
+  <a href="https://www.instagram.com/saravanakumar.me"><img src="https://user-images.githubusercontent.com/63473496/212668023-3f7aa65f-2a55-44f4-bc11-e1e7fea26cab.gif" height="60" width="auto"></a>
+  <a href="https://api.whatsapp.com/send?phone=8838416187&text=Hi!%20Saravanakumar!!">
+    <img src="https://user-images.githubusercontent.com/63473496/212668258-a33f94f5-0baf-4ab5-a2ac-83adafa8ecf0.gif" height="60" width="auto">
+  </a>
+  <a href="https://discord.com/users/saravanakumar.me/">
+    <img src="https://user-images.githubusercontent.com/63473496/212670527-afccf7ca-4dfc-4f4c-bf91-19287be8a679.gif" height="60" width="auto">
+  </a>
+</div>
+
+<br/>
+<div id="code_plat">
+  <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github.com/Suvraneel/Suvraneel/assets/63473496/6fcc0b23-7e1d-486d-a645-af95004682f8" height="40" width="auto">
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;Coding Platforms y'all can find me on:</span>
+  </h2>
+</div>
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-da8200?style=for-the-badge&logo=LeetCode&logoColor=ffa116&labelColor=black)](https://leetcode.com/Saravana2003/)
+[![SkillRack](https://img.shields.io/badge/Codechef-372a22?&style=for-the-badge&logo=SkillRack&logoColor=red&labelColor=black)](https://www.skillrack.com/faces/resume.xhtml?id=381703&key=7d59d9d0ed57993adcca4f71e60bcc308c4abf09)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-00c353?style=for-the-badge&logo=HackerRank&logoColor=00EA64&labelColor=black)](https://www.hackerrank.com/profile/Saravana2003)
+[![freeCodeCamp](https://img.shields.io/badge/-freeCodeCamp-131342?style=for-the-badge&logo=freeCodeCamp&logoColor=white&labelColor=0A0A23)](https://www.freecodecamp.org/Saravanakumar2003)
+ <!-- 
+ [![HackerEarth - hidden](https://img.shields.io/badge/HackerEarth-2C3454?&style=for-the-badge&logo=HackerEarth&logoColor=5464a1&labelColor=040407")](https://www.hackerearth.com/@bsuvraneel) 
+ -->
+
+<!-- Attribution: "Icon made by Freepik from www.flaticon.com"-->
+<!--
+- **Gmail**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; bsuvraneel@gmail.com
+- **LinkedIn**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.linkedin.com/in/suvraneel-bhuin/
+- **Facebook**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.facebook.com/suvraneel.bhuin
+- **Instagram**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.instagram.com/el_diablo_suvraneel
+- **Discord**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://discord.com/users/851345743935045652/
+- **WhatsApp**: &nbsp;&nbsp;&nbsp; [+91 7001967224](https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!)
+-->
 
  <p align="center">
     <a href="https://github.com/Saravanakumar2003/github-readme-streak-stats">
