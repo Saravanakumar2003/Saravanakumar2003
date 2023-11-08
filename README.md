@@ -61,9 +61,7 @@
 -->
 
  <p align="center">
-    <a href="https://github.com/Saravanakumar2003/github-readme-streak-stats">
-        <img title=# alt="Saravanakumar2003's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Saravanakumar2003&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Saravanakumar2003&theme=violet-punch&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </p>
  
 <div align="center">
