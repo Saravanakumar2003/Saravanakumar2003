@@ -58,11 +58,11 @@
 - **Discord**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://discord.com/users/851345743935045652/
 - **WhatsApp**: &nbsp;&nbsp;&nbsp; [+91 7001967224](https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!)
 -->
-<center>
+<div align="center">
  
 [![GitHub Streak](https://github-readme-streak-stats-iota-nine.vercel.app/?user=Saravanakumar2003&theme=jolly&align=center)](https://git.io/streak-stats)
 
-</center>
+</div>
  
 <div align="center">
 # 📊 My Github Stats
