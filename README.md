@@ -59,9 +59,8 @@
 - **WhatsApp**: &nbsp;&nbsp;&nbsp; [+91 7001967224](https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!)
 -->
 
- <p align="center">
-   [![GitHub Streak](https://github-readme-streak-stats-iota-nine.vercel.app/?user=DenverCoder1)](https://git.io/streak-stats)
-</p>
+[![GitHub Streak](https://github-readme-streak-stats-iota-nine.vercel.app/?user=DenverCoder1)](https://git.io/streak-stats)
+
  
 <div align="center">
 # 📊 My Github Stats
