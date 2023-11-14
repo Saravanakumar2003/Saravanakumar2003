@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=CF15F7&random=false&width=435&lines=Developer+%7C+Speaker+%7C+Volunteer+%7C+Nuclear+Enthuaists+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=CF15F7&random=false&width=435&lines=Developer+%7C+Speaker+%7C+Volunteer+)](https://git.io/typing-svg)
 
 </div>
  
@@ -43,12 +43,12 @@
 <br/>
 <div id="code_plat">
   <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://i.postimg.cc/3NY8cH4v/269538977-6fcc0b23-7e1d-486d-a645-af95004682f8.gif" height="40" width="auto">
+    <img src="https://github.com/Suvraneel/Suvraneel/assets/63473496/6fcc0b23-7e1d-486d-a645-af95004682f8" height="40" width="auto">
     <span>&nbsp;&nbsp;&nbsp;&nbsp;Coding Platforms y'all can find me on:</span>
   </h2>
 </div>
 
-[![SillRack - hidden](https://custom-icon-badges.demolab.com/badge/SkillRack-2C3454?&style=for-the-badge&?logo=skillrack&logoColor=5464a1&labelColor=040407")](http://www.skillrack.com/profile/381703/7d59d9d0ed57993adcca4f71e60bcc308c4abf09) 
+[![SillRack](https://custom-icon-badges.demolab.com/badge/SkillRack-2C3454?&style=for-the-badge&?logo=skillrack&logoColor=5464a1&labelColor=040407")](http://www.skillrack.com/profile/381703/7d59d9d0ed57993adcca4f71e60bcc308c4abf09) 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-da8200?style=for-the-badge&logo=LeetCode&logoColor=ffa116&labelColor=black)](https://leetcode.com/Saravana2003/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-00c353?style=for-the-badge&logo=HackerRank&logoColor=00EA64&labelColor=black)](https://www.hackerrank.com/profile/Saravana2003)
 [![freeCodeCamp](https://img.shields.io/badge/-freeCodeCamp-131342?style=for-the-badge&logo=freeCodeCamp&logoColor=white&labelColor=0A0A23)](https://www.freecodecamp.org/Saravanakumar2003)
