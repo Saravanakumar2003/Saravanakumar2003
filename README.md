@@ -1,8 +1,10 @@
 ### <h1 align="center">Hi <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzI0ZjViMDA0ZmVjYzEwYTc3ZTk0OGRkMWNiMTk0YWZmYzYwMmFjYiZjdD1z/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> ,  I'm Saravanakumar Ramaswamy
 
 <div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=CF15F7&random=false&width=435&lines=Developer+%7C+Speaker+%7C+Volunteer+%7C+Nuclear+Enthuaists+)](https://git.io/typing-svg)
- </div>
+
+</div>
  
  ## 🙋‍♂️ About Me
 
@@ -41,16 +43,15 @@
 <br/>
 <div id="code_plat">
   <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://icons8.com/icon/mcCRHk2xvR7f/code" height="40" width="auto">
+    <img src="https://i.postimg.cc/3NY8cH4v/269538977-6fcc0b23-7e1d-486d-a645-af95004682f8.gif" height="40" width="auto">
     <span>&nbsp;&nbsp;&nbsp;&nbsp;Coding Platforms y'all can find me on:</span>
   </h2>
 </div>
 
+[![SillRack - hidden](https://custom-icon-badges.demolab.com/badge/SkillRack-2C3454?&style=for-the-badge&?logo=skillrack&logoColor=5464a1&labelColor=040407")](http://www.skillrack.com/profile/381703/7d59d9d0ed57993adcca4f71e60bcc308c4abf09) 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-da8200?style=for-the-badge&logo=LeetCode&logoColor=ffa116&labelColor=black)](https://leetcode.com/Saravana2003/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-00c353?style=for-the-badge&logo=HackerRank&logoColor=00EA64&labelColor=black)](https://www.hackerrank.com/profile/Saravana2003)
 [![freeCodeCamp](https://img.shields.io/badge/-freeCodeCamp-131342?style=for-the-badge&logo=freeCodeCamp&logoColor=white&labelColor=0A0A23)](https://www.freecodecamp.org/Saravanakumar2003)
-[![SillRack - hidden](https://img.shields.io/badge/HackerEarth-2C3454?&style=for-the-badge&?logo=skillrack&logoColor=5464a1&labelColor=040407")]([https://www.hackerearth.com/@bsuvraneel](http://www.skillrack.com/profile/381703/7d59d9d0ed57993adcca4f71e60bcc308c4abf09)) 
-
 
 
 <div align="center">
