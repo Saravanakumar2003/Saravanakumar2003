@@ -1,5 +1,9 @@
 ### <h1 align="center">Hi <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzI0ZjViMDA0ZmVjYzEwYTc3ZTk0OGRkMWNiMTk0YWZmYzYwMmFjYiZjdD1z/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> ,  I'm Saravanakumar Ramaswamy
 
+<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=CF15F7&random=false&width=435&lines=Developer+%7C+Speaker+%7C+Volunteer+%7C+Nuclear+Enthuaists+)](https://git.io/typing-svg)
+ </div>
+ 
  ## 🙋‍♂️ About Me
 
 
@@ -33,11 +37,11 @@
     <img src="https://user-images.githubusercontent.com/63473496/212670527-afccf7ca-4dfc-4f4c-bf91-19287be8a679.gif" height="60" width="auto">
   </a>
 </div>
-
+<!-- Attribution: "Icon made by Freepik from www.flaticon.com"-->
 <br/>
 <div id="code_plat">
   <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/Suvraneel/Suvraneel/assets/63473496/6fcc0b23-7e1d-486d-a645-af95004682f8" height="40" width="auto">
+    <img src="https://icons8.com/icon/mcCRHk2xvR7f/code" height="40" width="auto">
     <span>&nbsp;&nbsp;&nbsp;&nbsp;Coding Platforms y'all can find me on:</span>
   </h2>
 </div>
@@ -45,19 +49,10 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-da8200?style=for-the-badge&logo=LeetCode&logoColor=ffa116&labelColor=black)](https://leetcode.com/Saravana2003/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-00c353?style=for-the-badge&logo=HackerRank&logoColor=00EA64&labelColor=black)](https://www.hackerrank.com/profile/Saravana2003)
 [![freeCodeCamp](https://img.shields.io/badge/-freeCodeCamp-131342?style=for-the-badge&logo=freeCodeCamp&logoColor=white&labelColor=0A0A23)](https://www.freecodecamp.org/Saravanakumar2003)
- <!-- 
- [![HackerEarth - hidden](https://img.shields.io/badge/HackerEarth-2C3454?&style=for-the-badge&logo=HackerEarth&logoColor=5464a1&labelColor=040407")](https://www.hackerearth.com/@bsuvraneel) 
- -->
+[![SillRack - hidden](https://img.shields.io/badge/HackerEarth-2C3454?&style=for-the-badge&?logo=skillrack&logoColor=5464a1&labelColor=040407")]([https://www.hackerearth.com/@bsuvraneel](http://www.skillrack.com/profile/381703/7d59d9d0ed57993adcca4f71e60bcc308c4abf09)) 
 
-<!-- Attribution: "Icon made by Freepik from www.flaticon.com"-->
-<!--
-- **Gmail**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; bsuvraneel@gmail.com
-- **LinkedIn**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.linkedin.com/in/suvraneel-bhuin/
-- **Facebook**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.facebook.com/suvraneel.bhuin
-- **Instagram**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.instagram.com/el_diablo_suvraneel
-- **Discord**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://discord.com/users/851345743935045652/
-- **WhatsApp**: &nbsp;&nbsp;&nbsp; [+91 7001967224](https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!)
--->
+
+
 <div align="center">
  
 [![GitHub Streak](https://github-readme-streak-stats-iota-nine.vercel.app/?user=Saravanakumar2003&theme=jolly&align=center)](https://git.io/streak-stats)
