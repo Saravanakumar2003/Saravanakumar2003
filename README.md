@@ -48,11 +48,10 @@
   </h2>
 </div>
 
-[![SillRack](https://custom-icon-badges.demolab.com/badge/SkillRack-2C3454?&style=for-the-badge&?logo=skillrack&logoColor=5464a1&labelColor=040407")](http://www.skillrack.com/profile/381703/7d59d9d0ed57993adcca4f71e60bcc308c4abf09) 
+[![SillRack](https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?&style=for-the-badge&?logo=skillrack&logoColor=5464a1&labelColor=040407)](http://www.skillrack.com/profile/381703/7d59d9d0ed57993adcca4f71e60bcc308c4abf09) 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-da8200?style=for-the-badge&logo=LeetCode&logoColor=ffa116&labelColor=black)](https://leetcode.com/Saravana2003/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-00c353?style=for-the-badge&logo=HackerRank&logoColor=00EA64&labelColor=black)](https://www.hackerrank.com/profile/Saravana2003)
 [![freeCodeCamp](https://img.shields.io/badge/-freeCodeCamp-131342?style=for-the-badge&logo=freeCodeCamp&logoColor=white&labelColor=0A0A23)](https://www.freecodecamp.org/Saravanakumar2003)
-
 
 <div align="center">
  
