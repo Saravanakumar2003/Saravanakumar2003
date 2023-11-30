@@ -22,7 +22,7 @@
 
 <div id="connect">
   <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/S/Saravanakumar2003/assets/63473496/6c2a1b4f-2aeb-4ffd-8a31-47a41810dc55" height="35" width="auto">
+    <img src="" height="35" width="auto">
     <span>&nbsp;&nbsp;&nbsp;&nbsp;Connect with me on:</span>
   </h2>
   <a href="https://twitter.com/Saravana2003_me">
@@ -43,7 +43,7 @@
 <br/>
 <div id="code_plat">
   <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/Saravanakumar2003/Saravanakumar2003/assets/63473496/6fcc0b23-7e1d-486d-a645-af95004682f8" height="40" width="auto">
+    <img src="https://raw.githubusercontent.com/Saravanakumar2003/Social-Media/target.gif" height="40" width="auto">
     <span>&nbsp;&nbsp;&nbsp;&nbsp;Coding Platforms y'all can find me on:</span>
   </h2>
 </div>
@@ -54,7 +54,7 @@
 
 <div id="code_plat">
   <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/Saravanakumar2003/Saravanakumar2003/blob/750e8b8afde6fa982a1e8bf19ec36567a371ae83/Social-Media/certificate.gif" height="40" width="auto">
+    <img src="https://raw.githubusercontent.com/Saravanakumar2003/Social-Media/certificate.gif" height="40" width="auto">
     <span>&nbsp;&nbsp;&nbsp;&nbsp;Certified from:</span>
   </h2>
 </div>
