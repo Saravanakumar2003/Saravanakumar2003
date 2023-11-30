@@ -22,7 +22,7 @@
 
 <div id="connect">
   <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
-    <img src="" height="35" width="auto">
+    <img src="https://i.postimg.cc/Q9295TY4/social.gif" height="35" width="auto">
     <span>&nbsp;&nbsp;&nbsp;&nbsp;Connect with me on:</span>
   </h2>
   <a href="https://twitter.com/Saravana2003_me">
