@@ -43,7 +43,6 @@
 <br/>
 <div id="code_plat">
   <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
-    <img src="'https://i.postimg.cc/75n66cyW/target.gif" height="40" width="auto">
     <span>&nbsp;&nbsp;&nbsp;&nbsp;Coding Platforms y'all can find me on:</span>
   </h2>
 </div>
@@ -54,7 +53,6 @@
 
 <div id="code_plat">
   <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://i.postimg.cc/K4C4sBNJ/certificate.gif" height="40" width="auto">
     <span>&nbsp;&nbsp;&nbsp;&nbsp;Certified from:</span>
   </h2>
 </div>
@@ -63,8 +61,10 @@
 [![Microsoft](https://img.shields.io/badge/Microsoft%20Academic-2D9FD9?style=for-the-badge&logo=Microsoft%20Academic&logoColor=white)](https://learn.microsoft.com/en-us/users/saravanakumarr-0468/transcript/7632psz81pqenyr)
 [![freeCodeCamp](https://img.shields.io/badge/-freeCodeCamp-131342?style=for-the-badge&logo=freeCodeCamp&logoColor=white&labelColor=0A0A23)](https://www.freecodecamp.org/Saravanakumar2003)
 
+<h2 align="center">My Stats</h2> 
+
 <div align="center">
- 
+
 [![GitHub Streak](https://github-readme-streak-stats-iota-nine.vercel.app/?user=Saravanakumar2003&theme=jolly&align=center)](https://git.io/streak-stats)
 
 </div>
