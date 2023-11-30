@@ -54,7 +54,7 @@
 
 <div id="code_plat">
   <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://icons8.com/icon/qgBsyv2LrviU/certificate" height="40" width="auto">
+    <img src="https://www.flaticon.com/free-animated-icon/certificate_10690668?term=certification&page=1&position=5&origin=tag&related_id=10690668" height="40" width="auto">
     <span>&nbsp;&nbsp;&nbsp;&nbsp;Certified from:</span>
   </h2>
 </div>
