@@ -43,7 +43,7 @@
 <br/>
 <div id="code_plat">
   <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://raw.githubusercontent.com/Saravanakumar2003/Social-Media/target.gif" height="40" width="auto">
+    <img src="'https://i.postimg.cc/75n66cyW/target.gif" height="40" width="auto">
     <span>&nbsp;&nbsp;&nbsp;&nbsp;Coding Platforms y'all can find me on:</span>
   </h2>
 </div>
@@ -54,7 +54,7 @@
 
 <div id="code_plat">
   <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://raw.githubusercontent.com/Saravanakumar2003/Social-Media/certificate.gif" height="40" width="auto">
+    <img src="https://i.postimg.cc/K4C4sBNJ/certificate.gif" height="40" width="auto">
     <span>&nbsp;&nbsp;&nbsp;&nbsp;Certified from:</span>
   </h2>
 </div>
