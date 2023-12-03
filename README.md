@@ -62,7 +62,7 @@
 [![freeCodeCamp](https://img.shields.io/badge/-freeCodeCamp-131342?style=for-the-badge&logo=freeCodeCamp&logoColor=white&labelColor=0A0A23)](https://www.freecodecamp.org/Saravanakumar2003)
 [![CodeCademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)](https://www.codecademy.com/profiles/Saravanakumar2003)
 
-<h2 align="center">My Stats</h2> 
+<h2 align="center"> 📊 My Github Stats</h2> 
 
 <div align="center">
 
@@ -71,7 +71,6 @@
 </div>
  
 <div align="center">
-# 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/Saravanakumar2003/github-readme-stats"><img alt="Saravanakumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Saravanakumar2003&show_icons=true&count_private=true&theme=jolly&hide_border=true&bg_color=0D1117" /></a>
@@ -96,4 +95,4 @@
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/saravanaramaswamy03?utm_source=qr)
 
 </div> 
-  
+ 
