@@ -42,7 +42,7 @@
 </div>
 <!-- Attribution: "Icon made by Freepik from www.flaticon.com"-->
 <br/>
-<div id="code_plat">
+<div id="coding">
   <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
     <span>&nbsp;&nbsp;&nbsp;&nbsp;Coding Platforms y'all can find me on:</span>
   </h2>
@@ -52,7 +52,7 @@
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-00c353?style=for-the-badge&logo=HackerRank&logoColor=00EA64&labelColor=black)](https://www.hackerrank.com/profile/Saravana2003)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-da8200?style=for-the-badge&logo=LeetCode&logoColor=ffa116&labelColor=black)](https://leetcode.com/Saravana2003/)
 
-<div id="code_plat">
+<div id="certifications">
   <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
     <span>&nbsp;&nbsp;&nbsp;&nbsp;Certified from:</span>
   </h2>
@@ -61,7 +61,8 @@
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/learner/saravana)
 [![Microsoft](https://img.shields.io/badge/Microsoft%20Academic-2D9FD9?style=for-the-badge&logo=Microsoft%20Academic&logoColor=white)](https://learn.microsoft.com/en-us/users/saravanakumarr-0468/transcript/7632psz81pqenyr)
 [![freeCodeCamp](https://img.shields.io/badge/-freeCodeCamp-131342?style=for-the-badge&logo=freeCodeCamp&logoColor=white&labelColor=0A0A23)](https://www.freecodecamp.org/Saravanakumar2003)
-[![CodeCademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)](https://www.codecademy.com/profiles/Saravanakumar2003)
+[![Google Cloud Skills](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/b139294c-b53b-4a6e-8b69-5ea7e60aa82e)
+
 
 <h2 align="center"> 📊 My Github Stats</h2> 
 
