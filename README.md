@@ -84,7 +84,8 @@
 
 <h2 align="center"> 📊 My Coding Stats</h2> 
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:waka--> 
+
 <!--END_SECTION:waka-->
 
 <h2 align="center">A Joke for you!!</h2>
