@@ -64,7 +64,7 @@
 [![Google Cloud Skills](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/b139294c-b53b-4a6e-8b69-5ea7e60aa82e)
 
 
-<h2 align="center"> 📊 My Github Stats</h2> 
+<h2 align="center"> 📊 Github Stats</h2> 
 
 <div align="center">
 
@@ -81,8 +81,8 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
-
-<h2 align="center"> 📊 My Coding Stats</h2> 
+</div>
+<h2 align="center"> 📊 Coding Stats</h2> 
 
 <!--START_SECTION:waka-->
 
@@ -91,7 +91,14 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
+<h2 align="center"> 📊 Miscellaneous Stats</h2> 
+<div align="center">
+  <br/>
+    <a href="https://stackoverflow.com/users/22913783/saravanakumar-r"><img alt="StackOverflow Stat" src="https://github-readme-stackoverflow.vercel.app/?userID=22913783&theme=dark" /></a>
+    <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=f5shy00k6tsnvs898unp5r46s&redirect=truer"><img alt="Spotify Stat" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=f5shy00k6tsnvs898unp5r46s&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)" /></a>
+  <br/>
+</div>
+ 
 <h2 align="center">A Joke for you!!</h2>
  <p align="center"> 
   <a href=# target="_blank"> <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> </a>
@@ -105,6 +112,8 @@ No activity tracked
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=saravanaramaswamy2003@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/saravanakumar-ramaswamy-0aa1041b8//)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/saravanaramaswamy03?utm_source=qr)
-
 </div> 
+<div align="center">
+<a href="https://u8views.com/github/Saravanakumar2003"><img src="https://u8views.com/api/v1/github/profiles/100985347/views/day-week-month-total-count.svg"></a>
+</div>
  
