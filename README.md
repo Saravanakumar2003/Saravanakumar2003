@@ -84,7 +84,11 @@
 
 <h2 align="center"> 📊 My Coding Stats</h2> 
 
-<!--START_SECTION:waka--> 
+<!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
 
 <!--END_SECTION:waka-->
 
