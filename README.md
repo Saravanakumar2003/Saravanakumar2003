@@ -91,13 +91,6 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-<h2 align="center"> 📊 Miscellaneous Stats</h2> 
-<div align="center">
-  <br/>
-    <a href="https://stackoverflow.com/users/22913783/saravanakumar-r"><img alt="StackOverflow Stat" src="https://github-readme-stackoverflow.vercel.app/?userID=22913783&theme=dark" /></a>
-    <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=f5shy00k6tsnvs898unp5r46s&redirect=truer"><img alt="Spotify Stat" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=f5shy00k6tsnvs898unp5r46s&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)" /></a>
-  <br/>
-</div>
  
 <h2 align="center">A Joke for you!!</h2>
  <p align="center"> 
