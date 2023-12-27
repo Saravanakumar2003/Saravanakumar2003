@@ -87,15 +87,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2023 - To: 25 December 2023
+From: 19 December 2023 - To: 26 December 2023
 
-Total Time: 12 hrs 40 mins
+Total Time: 14 hrs 54 mins
 
-TypeScript   7 hrs 47 mins   >>>>>>>>>>>>>>>----------   58.33 %
-Python       2 hrs 13 mins   >>>>---------------------   16.61 %
-JavaScript   1 hr 9 mins     >>-----------------------   08.68 %
-Bash         53 mins         >>-----------------------   06.62 %
-Other        40 mins         >------------------------   05.08 %
+TypeScript   7 hrs 39 mins   >>>>>>>>>>>>-------------   48.77 %
+Python       4 hrs 25 mins   >>>>>>>------------------   28.18 %
+JavaScript   1 hr 9 mins     >>-----------------------   07.37 %
+Bash         53 mins         >------------------------   05.62 %
+Other        48 mins         >------------------------   05.12 %
 ```
 
 <!--END_SECTION:waka-->
