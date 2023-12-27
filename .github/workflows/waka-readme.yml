@@ -20,15 +20,13 @@ jobs:
           SHOW_TITLE: true
           SECTION_NAME: waka
           BLOCKS: ->
-          TIME_RANGE: all_time #last_7_days, last_year
+          TIME_RANGE: last_1_month #all_time #last_7_days, last_year
           LANG_COUNT: 10
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true
           SHOW_DAYS_OF_WEEK: true
-          SHOW_OS: true
-          SHOW_EDITORS: true
           IGNORED_LANGUAGES: YAML JSON TOML
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
