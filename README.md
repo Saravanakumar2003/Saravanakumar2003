@@ -44,7 +44,7 @@
 <br/>
 <div id="coding">
   <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;Coding Platforms y'all can find me on:</span>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;Coding Platforms, you can find me on:</span>
   </h2>
 </div>
 
