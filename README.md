@@ -87,18 +87,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2024 - To: 12 January 2024
+From: 06 January 2024 - To: 13 January 2024
 
-Total Time: 10 hrs 23 mins
+Total Time: 9 hrs 41 mins
 
-JavaScript   4 hrs 45 mins   >>>>>>>>>>>--------------   45.58 %
-TypeScript   3 hrs 55 mins   >>>>>>>>>----------------   37.69 %
-Bash         15 mins         >------------------------   02.40 %
-XML          9 mins          -------------------------   01.60 %
-Git Config   7 mins          -------------------------   01.19 %
-Markdown     5 mins          -------------------------   00.85 %
-CSS          2 mins          -------------------------   00.39 %
-Other        2 mins          -------------------------   00.38 %
+JavaScript   5 hrs 6 mins    >>>>>>>>>>>>>------------   52.63 %
+TypeScript   3 hrs 17 mins   >>>>>>>>-----------------   33.87 %
+Bash         14 mins         >------------------------   02.42 %
+XML          9 mins          -------------------------   01.72 %
+Git Config   7 mins          -------------------------   01.28 %
+Markdown     6 mins          -------------------------   01.05 %
+HTML         3 mins          -------------------------   00.67 %
+CSS          0 secs          -------------------------   00.13 %
+Other        0 secs          -------------------------   00.02 %
 ```
 
 <!--END_SECTION:waka-->
