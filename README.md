@@ -87,16 +87,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 January 2024 - To: 07 February 2024
+From: 01 February 2024 - To: 08 February 2024
 
-Total Time: 7 hrs 19 mins
+Total Time: 5 hrs 5 mins
 
-Python       4 hrs 52 mins   >>>>>>>>>>>>>>>>>--------   66.37 %
-TypeScript   2 hrs 11 mins   >>>>>>>------------------   29.84 %
-PHP          8 mins          -------------------------   01.98 %
-Text         4 mins          -------------------------   01.07 %
-Markdown     1 min           -------------------------   00.39 %
-Other        1 min           -------------------------   00.29 %
+TypeScript   2 hrs 33 mins   >>>>>>>>>>>>-------------   49.95 %
+Python       2 hrs 17 mins   >>>>>>>>>>>--------------   44.82 %
+PHP          8 mins          >------------------------   02.85 %
+Text         3 mins          -------------------------   01.30 %
+Markdown     1 min           -------------------------   00.56 %
+Other        1 min           -------------------------   00.44 %
 ```
 
 <!--END_SECTION:waka-->
