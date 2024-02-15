@@ -87,15 +87,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2024 - To: 13 February 2024
+From: 07 February 2024 - To: 14 February 2024
 
 Total Time: 5 hrs 20 mins
 
-TypeScript   4 hrs 7 mins    >>>>>>>>>>>>>>>>>>>------   77.19 %
+TypeScript   4 hrs 7 mins    >>>>>>>>>>>>>>>>>>>------   77.23 %
 PHP          40 mins         >>>----------------------   12.73 %
 HTML         16 mins         >------------------------   05.23 %
 CSS          15 mins         >------------------------   04.78 %
-JavaScript   0 secs          -------------------------   00.03 %
 Other        0 secs          -------------------------   00.02 %
 ```
 
