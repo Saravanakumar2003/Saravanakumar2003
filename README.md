@@ -87,11 +87,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 March 2024 - To: 28 March 2024
+From: 22 March 2024 - To: 29 March 2024
 
-Total Time: 3 hrs 33 mins
+Total Time: 2 hrs 30 mins
 
-Other          15 hrs 7 mins   >>>>>>>>>>>>>>>>>>>>-----   80.94 %
+Other          20 hrs 38 mins  >>>>>>>>>>>>>>>>>>>>>>---   89.13 %
 ```
 
 <!--END_SECTION:waka-->
