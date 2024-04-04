@@ -8,7 +8,6 @@
  
  ## 🙋‍♂️ About Me
 
-
 - 🎓 A proud student of **Velammal Engineering College**, where I'm pursuing a Bachelor's degree in **Electronics and Communication Engineering** and building a solid foundation in technology. 
  
 - 💻 I'm also an **avid developer, enthusiastic volunteer, and public speaker**, and I love exploring new opportunities and avenues.
@@ -26,15 +25,15 @@
     <img src="https://i.postimg.cc/Q9295TY4/social.gif" height="35" width="auto">
     <span>&nbsp;&nbsp;&nbsp;&nbsp;Connect with me on:</span>
   </h2>
-  <a href="https://twitter.com/Saravana2003_me">
-    <img src="https://user-images.githubusercontent.com/63473496/212667318-969259c1-f51a-47a4-a3e3-8675138bdcec.gif" height="60" width= auto>
-  </a>
   <a href="https://www.linkedin.com/in/saravanaramaswamy2003">
     <img src="https://user-images.githubusercontent.com/63473496/212667680-1ccf7d0a-9f59-4be5-a2d0-b07effb04b6c.gif" height="60" width= auto>
   </a>
   <a href="https://www.instagram.com/saravanakumar.me"><img src="https://user-images.githubusercontent.com/63473496/212668023-3f7aa65f-2a55-44f4-bc11-e1e7fea26cab.gif" height="60" width="auto"></a>
   <a href="https://api.whatsapp.com/send?phone=8838416187&text=Hi!%20Saravanakumar!!">
     <img src="https://user-images.githubusercontent.com/63473496/212668258-a33f94f5-0baf-4ab5-a2ac-83adafa8ecf0.gif" height="60" width="auto">
+  </a>
+    <a href="https://twitter.com/Saravana2003_me">
+    <img src="https://user-images.githubusercontent.com/63473496/212667318-969259c1-f51a-47a4-a3e3-8675138bdcec.gif" height="60" width= auto>
   </a>
   <a href="https://discord.com/users/saravanakumar.me/">
     <img src="https://user-images.githubusercontent.com/63473496/212670527-afccf7ca-4dfc-4f4c-bf91-19287be8a679.gif" height="60" width="auto">
@@ -64,14 +63,14 @@
 [![Google Cloud Skills](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/b139294c-b53b-4a6e-8b69-5ea7e60aa82e)
 
 
-<h2 align="center"> 📊 Github Stats</h2> 
+<h2 align="center">📈 Github Stats</h2> 
 
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats-iota-nine.vercel.app/?user=Saravanakumar2003&theme=jolly&align=center)](https://git.io/streak-stats)
 
 </div>
- 
+
 <div align="center">
 
   <br/>
@@ -110,7 +109,9 @@ Other        26 hrs 51 mins  >>>>>>>>>>>>>>>>>>>>>>---   87.44 %
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/saravanakumar-ramaswamy-0aa1041b8//)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/saravanaramaswamy03?utm_source=qr)
 </div> 
+
 <div align="center">
 <a href="https://u8views.com/github/Saravanakumar2003"><img src="https://u8views.com/api/v1/github/profiles/100985347/views/day-week-month-total-count.svg"></a>
 </div>
  
+
