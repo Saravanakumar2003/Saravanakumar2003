@@ -103,6 +103,9 @@ Git Config   0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
+
+<figure><embed src="https://wakatime.com/share/@018baea6-db24-4afa-a6f4-f2d76462cce5/cce5b375-67bd-4e0f-a9fc-8fbb43582fb5.svg"></embed></figure>
+
  
 <h2 align="center">A Joke for you!!</h2>
  <p align="center"> 

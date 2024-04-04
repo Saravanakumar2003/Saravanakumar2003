@@ -4,7 +4,7 @@ on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    - cron: "50 13,5 * * *"
+    - cron: "30 14,5 * * *"
 
 jobs:
   update-readme:
@@ -26,8 +26,7 @@ jobs:
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: false
-          SHOW_DAYS_OF_WEEK: true
-          IGNORED_LANGUAGES: YAML JSON TOML Markdown Dockerfile Shell Makefile 
+          IGNORED_LANGUAGES: YAML JSON TOML Markdown Dockerfile Shell Makefile Config TS Config GitConfig GITIGNORE 
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
           TARGET_BRANCH: master
@@ -36,11 +35,6 @@ jobs:
           COMMITTER_EMAIL: action-bot@github.com
           AUTHOR_NAME: Saravanakumar R
           AUTHOR_EMAIL: saravanaramaswamy2003@gmail.com
-          ### style
-          SHOW_ICONS: true
-          SHOW_LINES_OF_CODE: true
-          SHOW_PROFILE_VIEWS: true
-          SHOW_LANGUAGE_PERCENT: true
 
           
           
