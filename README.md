@@ -82,7 +82,7 @@
 <br/>
 <br/>
 </div>
-<h2 align="center"> 📊 Coding Stats</h2> 
+<h2 align="center"> 📊 Coding Stats (Powered by Wakatime)</h2> 
 
 <!--START_SECTION:waka-->
 
@@ -105,7 +105,7 @@ Other        26 hrs 51 mins  >>>>>>>>>>>>>>>>>>>>>>---   87.44 %
 
 ## Show some ❤️ by starring ⭐ some of the repositories!
 
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](https://saravanakumar.me/)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](https://saravana.vercel.app/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=saravanaramaswamy2003@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/saravanakumar-ramaswamy-0aa1041b8//)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/saravanaramaswamy03?utm_source=qr)
