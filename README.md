@@ -86,15 +86,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 April 2024 - To: 10 April 2024
+From: 04 April 2024 - To: 11 April 2024
 
-Total Time: 4 hrs 15 mins
+Total Time: 3 hrs 50 mins
 
-Other          4 hrs 57 mins   >>>>>>>>>>>>>------------   53.85 %
-TypeScript     4 hrs 11 mins   >>>>>>>>>>>--------------   45.48 %
-Text           3 mins          -------------------------   00.63 %
-Git Config     0 secs          -------------------------   00.02 %
-Canva Design   0 secs          -------------------------   00.02 %
+TypeScript   3 hrs 50 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   95.32 %
+Other        11 mins         >------------------------   04.63 %
+Git Config   0 secs          -------------------------   00.04 %
 ```
 
 <!--END_SECTION:waka-->
