@@ -86,14 +86,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 June 2024 - To: 18 June 2024
+From: 12 June 2024 - To: 19 June 2024
 
-Total Time: 16 hrs 49 mins
+Total Time: 21 hrs 44 mins
 
-Python       16 hrs 44 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   98.02 %
-Other        15 mins         -------------------------   01.47 %
-JSON         5 mins          -------------------------   00.51 %
-Git Config   0 secs          -------------------------   00.01 %
+Python       21 hrs 7 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   95.70 %
+JSON         23 mins         -------------------------   01.75 %
+Other        20 mins         -------------------------   01.53 %
+HTML         11 mins         -------------------------   00.90 %
+Text         1 min           -------------------------   00.11 %
+Git Config   0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
