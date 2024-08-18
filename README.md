@@ -86,16 +86,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 August 2024 - To: 15 August 2024
+From: 09 August 2024 - To: 16 August 2024
 
-Total Time: 2 hrs 35 mins
+Total Time: 3 hrs 49 mins
 
-JavaScript   2 hrs 15 mins   >>>>>>>>>>>>>>>>>>>>>>---   87.25 %
-Python       17 mins         >>>----------------------   11.55 %
-CSS          0 secs          -------------------------   00.60 %
-TypeScript   0 secs          -------------------------   00.56 %
-Git Config   0 secs          -------------------------   00.02 %
-JSON         0 secs          -------------------------   00.02 %
+JavaScript    3 hrs 7 mins    >>>>>>>>>>>>>>>>>>>>-----   81.41 %
+Python        28 mins         >>>----------------------   12.41 %
+Text          10 mins         >------------------------   04.77 %
+CSS           0 secs          -------------------------   00.42 %
+TypeScript    0 secs          -------------------------   00.40 %
+Other         0 secs          -------------------------   00.39 %
+Image (svg)   0 secs          -------------------------   00.11 %
+Git Config    0 secs          -------------------------   00.08 %
+JSON          0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
