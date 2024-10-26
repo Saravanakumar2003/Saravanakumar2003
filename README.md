@@ -86,18 +86,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2024 - To: 24 October 2024
+From: 18 October 2024 - To: 25 October 2024
 
-Total Time: 10 hrs 24 mins
+Total Time: 11 hrs 17 mins
 
-JavaScript   6 hrs 7 mins    >>>>>>>>>>>>>>>----------   58.83 %
-HTML         2 hrs 36 mins   >>>>>>-------------------   25.03 %
-CSS          38 mins         >>-----------------------   06.12 %
-Python       36 mins         >------------------------   05.86 %
-TypeScript   3 mins          -------------------------   00.52 %
-Text         2 mins          -------------------------   00.35 %
+JavaScript   7 hrs 54 mins   >>>>>>>>>>>>>>>>>--------   68.56 %
+HTML         2 hrs 5 mins    >>>>>--------------------   18.20 %
+Python       35 mins         >------------------------   05.11 %
+CSS          15 mins         >------------------------   02.30 %
+Other        14 mins         >------------------------   02.11 %
+TypeScript   3 mins          -------------------------   00.48 %
+Text         2 mins          -------------------------   00.29 %
 Bash         0 secs          -------------------------   00.06 %
-Other        0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
