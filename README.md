@@ -86,17 +86,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2024 - To: 31 December 2024
+From: 25 December 2024 - To: 01 January 2025
 
-Total Time: 10 hrs 5 mins
+Total Time: 10 hrs 26 mins
 
-JavaScript    6 hrs 13 mins   >>>>>>>>>>>>>>>----------   59.98 %
-CSS           2 hrs 2 mins    >>>>>--------------------   19.70 %
-TypeScript    1 hr 20 mins    >>>----------------------   12.90 %
-Other         16 mins         >------------------------   02.70 %
-HTML          15 mins         >------------------------   02.52 %
-Bash          6 mins          -------------------------   00.99 %
-Image (svg)   0 secs          -------------------------   00.03 %
+JavaScript    6 hrs 44 mins   >>>>>>>>>>>>>>>>---------   63.44 %
+CSS           1 hr 59 mins    >>>>>--------------------   18.73 %
+C             1 hr            >>-----------------------   09.48 %
+HTML          15 mins         >------------------------   02.46 %
+Other         10 mins         -------------------------   01.62 %
+Bash          6 mins          -------------------------   00.97 %
+Assembly      4 mins          -------------------------   00.74 %
+TypeScript    0 secs          -------------------------   00.06 %
 ```
 
 <!--END_SECTION:waka-->
