@@ -86,14 +86,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 February 2025 - To: 02 March 2025
+From: 24 February 2025 - To: 03 March 2025
 
-Total Time: 2 hrs 56 mins
+Total Time: 2 hrs 14 mins
 
-TypeScript   1 hr 50 mins    >>>>>>>>>>>>>>>>---------   62.57 %
-JavaScript   33 mins         >>>>>--------------------   18.76 %
-HTML         32 mins         >>>>>--------------------   18.32 %
-CSV          0 secs          -------------------------   00.24 %
+TypeScript   1 hr 55 mins    >>>>>>>>>>>>>>>>>>>>>>---   86.42 %
+JavaScript   9 mins          >>-----------------------   06.83 %
+HTML         8 mins          >>-----------------------   06.42 %
+CSV          0 secs          -------------------------   00.31 %
 CSS          0 secs          -------------------------   00.01 %
 ```
 
