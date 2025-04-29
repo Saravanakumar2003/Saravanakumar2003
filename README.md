@@ -86,14 +86,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 April 2025 - To: 27 April 2025
+From: 21 April 2025 - To: 28 April 2025
 
-Total Time: 3 mins
+Total Time: 24 mins
 
-C++          1 min           >>>>>>>>>>>>>------------   52.26 %
-Python       1 min           >>>>>>>>>>---------------   40.02 %
-JavaScript   0 secs          >------------------------   04.51 %
-Text         0 secs          >------------------------   03.20 %
+C++          22 mins         >>>>>>>>>>>>>>>>>>>>>>>--   92.73 %
+Python       1 min           >>-----------------------   06.10 %
+JavaScript   0 secs          -------------------------   00.69 %
+Text         0 secs          -------------------------   00.49 %
 ```
 
 <!--END_SECTION:waka-->
