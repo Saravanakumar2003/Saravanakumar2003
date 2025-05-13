@@ -86,14 +86,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 May 2025 - To: 11 May 2025
+From: 05 May 2025 - To: 12 May 2025
 
-Total Time: 15 mins
+Total Time: 6 mins
 
-JavaScript   11 mins         >>>>>>>>>>>>>>>>>>-------   73.77 %
-Python       1 min           >>-----------------------   08.29 %
-CSS          0 secs          >------------------------   04.72 %
-TypeScript   0 secs          >------------------------   03.85 %
+TypeScript   6 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
