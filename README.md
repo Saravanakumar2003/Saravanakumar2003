@@ -86,12 +86,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2025 - To: 07 June 2025
+From: 01 June 2025 - To: 08 June 2025
 
-Total Time: 24 mins
-
-JavaScript   24 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   99.71 %
-Bash         0 secs          -------------------------   00.29 %
+Total Time: 0 secs
 ```
 
 <!--END_SECTION:waka-->
