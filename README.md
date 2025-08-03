@@ -86,14 +86,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 July 2025 - To: 01 August 2025
+From: 26 July 2025 - To: 02 August 2025
 
-Total Time: 1 hr 14 mins
+Total Time: 1 hr 11 mins
 
-Python       24 mins         >>>>>>>>-----------------   32.38 %
-JavaScript   11 mins         >>>>---------------------   14.97 %
-CSS          9 mins          >>>----------------------   12.16 %
-HTML         0 secs          -------------------------   00.68 %
+Python       22 mins         >>>>>>>>-----------------   30.61 %
+JavaScript   11 mins         >>>>---------------------   15.51 %
+CSS          9 mins          >>>----------------------   12.60 %
+HTML         0 secs          -------------------------   00.70 %
 Git Config   0 secs          -------------------------   00.03 %
 ```
 
