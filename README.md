@@ -86,14 +86,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 July 2025 - To: 04 August 2025
+From: 29 July 2025 - To: 05 August 2025
 
-Total Time: 1 hr 26 mins
+Total Time: 1 hr 43 mins
 
-HTML     1 hr 21 mins    >>>>>>>>>>>>>>>>>>>>>>>>-   94.63 %
-Text     2 mins          >------------------------   02.73 %
-Python   2 mins          >------------------------   02.51 %
-CSS      0 secs          -------------------------   00.12 %
+HTML     1 hr 21 mins    >>>>>>>>>>>>>>>>>>>>-----   78.91 %
+CSV      10 mins         >>>----------------------   10.51 %
+Python   8 mins          >>-----------------------   08.20 %
+Text     2 mins          >------------------------   02.28 %
+CSS      0 secs          -------------------------   00.10 %
 ```
 
 <!--END_SECTION:waka-->
