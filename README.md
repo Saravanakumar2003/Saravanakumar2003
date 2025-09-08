@@ -86,16 +86,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2025 - To: 06 September 2025
+From: 31 August 2025 - To: 07 September 2025
 
-Total Time: 56 mins
+Total Time: 37 mins
 
-Python       28 mins         >>>>>>>>>>>>-------------   49.96 %
-JavaScript   15 mins         >>>>>>>------------------   26.81 %
-Text         7 mins          >>>----------------------   12.74 %
-PowerShell   0 secs          -------------------------   00.16 %
-Other        0 secs          -------------------------   00.14 %
-Batchfile    0 secs          -------------------------   00.05 %
+JavaScript   13 mins         >>>>>>>>>----------------   35.10 %
+Python       11 mins         >>>>>>>>-----------------   30.93 %
+Text         7 mins          >>>>>--------------------   19.12 %
+PowerShell   0 secs          -------------------------   00.25 %
+Batchfile    0 secs          -------------------------   00.08 %
 ```
 
 <!--END_SECTION:waka-->
