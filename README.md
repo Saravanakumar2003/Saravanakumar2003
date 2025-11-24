@@ -86,16 +86,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 November 2025 - To: 22 November 2025
+From: 16 November 2025 - To: 23 November 2025
 
-Total Time: 1 hr 38 mins
+Total Time: 42 mins
 
-TypeScript   43 mins         >>>>>>>>>>>--------------   44.66 %
-Python       37 mins         >>>>>>>>>>---------------   38.32 %
-HTML         5 mins          >------------------------   05.24 %
-JavaScript   2 mins          >------------------------   02.05 %
-Batchfile    0 secs          -------------------------   00.20 %
-PHP          0 secs          -------------------------   00.11 %
+Python       26 mins         >>>>>>>>>>>>>>>----------   60.95 %
+HTML         5 mins          >>>----------------------   12.03 %
+JavaScript   2 mins          >------------------------   04.70 %
+Batchfile    0 secs          -------------------------   00.46 %
+PHP          0 secs          -------------------------   00.26 %
 ```
 
 <!--END_SECTION:waka-->
