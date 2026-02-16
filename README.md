@@ -86,16 +86,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 February 2026 - To: 14 February 2026
+From: 08 February 2026 - To: 15 February 2026
 
-Total Time: 2 hrs 5 mins
+Total Time: 1 hr 53 mins
 
-HTML              1 hr 5 mins     >>>>>>>>>>>>>------------   51.82 %
-XML               22 mins         >>>>---------------------   17.65 %
-Python            6 mins          >------------------------   04.96 %
-Kotlin            6 mins          >------------------------   04.94 %
-Java Properties   0 secs          -------------------------   00.35 %
-Prolog            0 secs          -------------------------   00.03 %
+JavaScript   33 mins         >>>>>>>------------------   29.58 %
+Python       6 mins          >------------------------   05.49 %
+CSS          0 secs          -------------------------   00.67 %
+Kotlin       0 secs          -------------------------   00.02 %
 ```
 
 <!--END_SECTION:waka-->
